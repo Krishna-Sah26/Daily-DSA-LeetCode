@@ -14,6 +14,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Bit Manipulation
@@ -26,6 +27,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -41,6 +43,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -50,6 +53,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -73,4 +77,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0054-spiral-matrix) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
