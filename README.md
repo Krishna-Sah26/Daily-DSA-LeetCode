@@ -13,6 +13,7 @@
 | [0056-merge-intervals](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0136-single-number) |
@@ -43,6 +44,7 @@
 | [0018-4sum](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -50,6 +52,7 @@
 | [0018-4sum](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
