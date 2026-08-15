@@ -21,6 +21,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -110,6 +111,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0704-binary-search) |
 ## Binary Indexed Tree
