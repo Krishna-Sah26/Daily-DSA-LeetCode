@@ -31,6 +31,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 | [0493-reverse-pairs](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Binary Indexed Tree
 |  |
 | ------- |
