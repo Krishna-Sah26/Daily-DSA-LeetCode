@@ -112,6 +112,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0069-sqrtx) |
+| [1903-largest-odd-number-in-string](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
 |  |
 | ------- |
@@ -175,6 +176,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -183,4 +185,8 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1021-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
