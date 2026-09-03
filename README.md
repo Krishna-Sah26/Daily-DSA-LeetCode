@@ -47,6 +47,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0169-majority-element) |
@@ -116,6 +117,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0069-sqrtx) |
 | [1903-largest-odd-number-in-string](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -180,6 +182,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0242-valid-anagram) |
