@@ -63,6 +63,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0031-next-permutation) |
@@ -98,6 +99,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -182,6 +184,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0205-isomorphic-strings) |
@@ -217,4 +220,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
