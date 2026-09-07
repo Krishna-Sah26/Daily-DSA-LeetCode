@@ -26,6 +26,7 @@
 | [0152-maximum-product-subarray](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -71,6 +72,7 @@
 | [0075-sort-colors](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
 | ------- |
@@ -149,6 +151,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
