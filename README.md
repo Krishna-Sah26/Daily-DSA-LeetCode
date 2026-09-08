@@ -30,6 +30,7 @@
 | [0169-majority-element](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 | [0088-merge-sorted-array](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -153,6 +156,7 @@
 | [0162-find-peak-element](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0704-binary-search) |
@@ -230,4 +234,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
