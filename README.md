@@ -29,6 +29,7 @@
 | [0162-find-peak-element](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -64,6 +65,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
@@ -158,6 +160,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0367-valid-perfect-square) |
@@ -246,4 +249,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
