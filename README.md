@@ -253,4 +253,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
