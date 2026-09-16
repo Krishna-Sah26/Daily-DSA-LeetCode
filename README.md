@@ -86,6 +86,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -269,4 +270,5 @@
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
