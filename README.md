@@ -47,6 +47,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -165,6 +167,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0054-spiral-matrix) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -220,6 +223,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0493-reverse-pairs) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Treap
 |  |
 | ------- |
@@ -266,6 +270,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -311,6 +316,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -332,4 +338,5 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
