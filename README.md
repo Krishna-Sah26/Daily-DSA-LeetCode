@@ -178,6 +178,7 @@
 | [0048-rotate-image](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0069-sqrtx) |
+| [0282-expression-add-operators](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0367-valid-perfect-square) |
 | [1903-largest-odd-number-in-string](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -263,6 +264,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0282-expression-add-operators) |
 | [0451-sort-characters-by-frequency](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -381,6 +383,7 @@
 | [0090-subsets-ii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0282-expression-add-operators) |
 ## Algorithm X
 |  |
 | ------- |
