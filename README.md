@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0136-single-number) |
@@ -184,6 +185,7 @@
 | [0029-divide-two-integers](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0069-sqrtx) |
 | [0282-expression-add-operators](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0326-power-of-three) |
@@ -194,6 +196,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0067-add-binary) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -266,6 +269,7 @@
 | [0013-roman-to-integer](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0151-reverse-words-in-a-string) |
