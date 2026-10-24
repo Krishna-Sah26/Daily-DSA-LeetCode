@@ -46,6 +46,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -118,6 +119,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
@@ -135,6 +137,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0455-assign-cookies) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -206,6 +209,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0056-merge-intervals) |
+| [0455-assign-cookies](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0455-assign-cookies) |
 ## Binary Search
 |  |
 | ------- |
@@ -297,6 +301,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0455-assign-cookies) |
 | [1903-largest-odd-number-in-string](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
 |  |
