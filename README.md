@@ -18,6 +18,7 @@
 | [0051-n-queens](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -162,6 +163,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -302,6 +304,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
