@@ -47,6 +47,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0493-reverse-pairs) |
@@ -138,6 +139,7 @@
 | [0242-valid-anagram](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0455-assign-cookies) |
 ## Divide and Conquer
@@ -168,6 +170,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 ## Union-Find
 |  |
 | ------- |
@@ -305,6 +308,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
