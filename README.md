@@ -58,6 +58,7 @@
 | [0875-koko-eating-bananas](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1480-running-sum-of-1d-array](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1901-find-a-peak-element-ii) |
@@ -101,6 +102,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1480-running-sum-of-1d-array](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
