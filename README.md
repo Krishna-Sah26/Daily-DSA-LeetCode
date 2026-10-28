@@ -63,6 +63,7 @@
 | [1539-kth-missing-positive-number](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [1920-build-array-from-permutation](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1920-build-array-from-permutation) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bit Manipulation
 |  |
@@ -210,6 +211,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0067-add-binary) |
+| [1920-build-array-from-permutation](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1920-build-array-from-permutation) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
