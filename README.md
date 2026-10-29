@@ -117,6 +117,7 @@
 | [0015-3sum](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0075-sort-colors) |
@@ -293,6 +294,7 @@
 | [0013-roman-to-integer](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -330,6 +332,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0796-rotate-string) |
 ## Heap (Priority Queue)
 |  |
@@ -433,4 +436,16 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0037-sudoku-solver) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
