@@ -214,6 +214,7 @@
 | [0282-expression-add-operators](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0412-fizz-buzz) |
 | [1903-largest-odd-number-in-string](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1922-count-good-numbers) |
 ## Simulation
@@ -221,6 +222,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1920-build-array-from-permutation) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -304,6 +306,7 @@
 | [0242-valid-anagram](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1021-remove-outermost-parentheses) |
