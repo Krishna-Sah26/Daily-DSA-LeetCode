@@ -211,6 +211,7 @@
 | [0050-powx-n](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0258-add-digits) |
 | [0282-expression-add-operators](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0282-expression-add-operators) |
 | [0326-power-of-three](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0367-valid-perfect-square) |
@@ -222,6 +223,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1920-build-array-from-permutation) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -452,4 +454,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
