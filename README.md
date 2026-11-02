@@ -186,6 +186,7 @@
 | [0131-palindrome-partitioning](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Union-Find
 |  |
 | ------- |
@@ -313,6 +314,7 @@
 | [0409-longest-palindrome](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -322,12 +324,14 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
@@ -337,6 +341,7 @@
 | [0409-longest-palindrome](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 ## String Matching
