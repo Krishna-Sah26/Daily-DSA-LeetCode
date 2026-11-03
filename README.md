@@ -34,6 +34,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -338,6 +339,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0455-assign-cookies) |
