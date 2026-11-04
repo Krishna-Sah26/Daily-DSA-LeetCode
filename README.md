@@ -15,6 +15,7 @@
 | [0037-sudoku-solver](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0053-maximum-subarray) |
@@ -179,6 +180,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0118-pascals-triangle) |
@@ -338,6 +340,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0409-longest-palindrome) |
