@@ -62,6 +62,7 @@
 | [0704-binary-search](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -109,6 +110,7 @@
 | [0409-longest-palindrome](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Prefix Sum
@@ -390,6 +392,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Linked List
