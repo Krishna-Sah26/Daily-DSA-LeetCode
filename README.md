@@ -66,6 +66,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -115,6 +116,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -125,6 +127,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
@@ -235,6 +238,7 @@
 | [0326-power-of-three](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0412-fizz-buzz) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1922-count-good-numbers) |
 ## Simulation
@@ -406,6 +410,7 @@
 | [0904-fruit-into-baskets](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Linked List
