@@ -352,6 +352,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -512,8 +513,10 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
