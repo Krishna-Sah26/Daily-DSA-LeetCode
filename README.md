@@ -62,6 +62,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -254,6 +255,7 @@
 | [0067-add-binary](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0412-fizz-buzz) |
+| [0735-asteroid-collision](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0735-asteroid-collision) |
 | [1920-build-array-from-permutation](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1920-build-array-from-permutation) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -360,6 +362,7 @@
 | [0496-next-greater-element-i](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0735-asteroid-collision](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Krishna-Sah26/Daily-DSA-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
